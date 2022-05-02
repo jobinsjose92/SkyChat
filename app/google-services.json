@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "522353951468",
+    "project_id": "skychat-4de58",
+    "storage_bucket": "skychat-4de58.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:522353951468:android:59bfa193d9ffa4d197dbc9",
+        "android_client_info": {
+          "package_name": "com.jobins.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "522353951468-j4hjatsp58593qmqga81m2l1mua1dkds.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jobins.myapplication",
+            "certificate_hash": "7fe9812e20a5279115f28e1341aa48326ca77278"
+          }
+        },
+        {
+          "client_id": "522353951468-mm74a48baqgtggr2qlekl5i34c0u4q2p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAej86GL1O94pAk6bGnotVY5P7Efvf5OUw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "522353951468-mm74a48baqgtggr2qlekl5i34c0u4q2p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
